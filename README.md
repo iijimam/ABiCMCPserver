@@ -9,7 +9,8 @@
 呼び出し先となる REST API のコード一式は [https://github.com/Intersystems-jp/demogames-tokyo](https://github.com/Intersystems-jp/demogames-tokyo) にあります。
 
 ---
-~English~
+***[English]***
+
 This is sample code submitted by the Tokyo SE team.
 
 This repository contains only code for the MCP server.
@@ -23,7 +24,7 @@ MCP サーバ名：ABiCMCPServer で作成しています。
 MCP サーバに含まれるツールは以下の通りです。
 
 ---
-~Enblish~
+***[English]***
 
 MCP server name is **ABiCMCPServer**.
 
@@ -33,7 +34,7 @@ The tools included in the MCP server are as follows.
 
 この MCP サーバに含まれるツールは以下の通りです。
 
-~English~
+***[English]***
 
 The following tools are included in this MCP server.
 
@@ -45,7 +46,7 @@ The following tools are included in this MCP server.
 
   **Claude desktop のチャット**に、自然言語で分析内容を送付すると実行できます。
 
-  ~English~
+  ***[English]***
 
   When you specify the analysis content in natural language, a dashboard displaying pivots based on that content will be created.
   
@@ -75,7 +76,7 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 
 **※ディレクトリには、リポジトリ clone 後のディレクトリのフルパスを指定してください。**
 
-~English~
+***[English]***
 
 **Please specify the full path of the directory after cloning the repository in the directory.**
 
